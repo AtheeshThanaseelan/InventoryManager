@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/InventoryManager/static/css/main.8aa8583a.css",
+    "main.js": "/InventoryManager/static/js/main.37752dc1.js",
+    "static/media/Introbox.png": "/InventoryManager/static/media/Introbox.6f20744b9d8b99af1310.png",
+    "static/media/digitalana.jpeg": "/InventoryManager/static/media/digitalana.36bccb59d0867f285517.jpeg",
+    "static/media/realtimetracking.jpeg": "/InventoryManager/static/media/realtimetracking.c22abcb9c5286dc3c7a9.jpeg",
+    "static/media/barcodescanning.jpeg": "/InventoryManager/static/media/barcodescanning.b8bc0548fa5c87b49d56.jpeg",
+    "static/media/lowstock.jpeg": "/InventoryManager/static/media/lowstock.091398431f5b6649965c.jpeg",
+    "index.html": "/InventoryManager/index.html",
+    "main.8aa8583a.css.map": "/InventoryManager/static/css/main.8aa8583a.css.map",
+    "main.37752dc1.js.map": "/InventoryManager/static/js/main.37752dc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8aa8583a.css",
+    "static/js/main.37752dc1.js"
+  ]
+}
